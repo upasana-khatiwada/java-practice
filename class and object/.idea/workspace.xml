@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="aba3fe1c-d2a8-4448-a1d2-7b42bc20680b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessNumber/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/guessNumber/src/Main.java" afterDir="false" />
+    <list default="true" id="d81d14dd-bcd2-44c5-ada0-af18aaefcfc8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../assignment sir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment sir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment sir/guessNumber/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment sir/guessNumber/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,28 +13,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="2MK5qd7ppVyaxa7zuiFRPfi9syU" />
+  <component name="ProjectId" id="2MLx0XChBZAXVUgPWb4jjcIpOWW" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="aba3fe1c-d2a8-4448-a1d2-7b42bc20680b" name="Changes" comment="" />
-      <created>1677503627103</created>
+      <changelist id="d81d14dd-bcd2-44c5-ada0-af18aaefcfc8" name="Changes" comment="" />
+      <created>1677560440934</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1677503627103</updated>
+      <updated>1677560440934</updated>
     </task>
     <servers />
   </component>

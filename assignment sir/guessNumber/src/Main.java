@@ -20,7 +20,8 @@ public class Main {
             userInput=input.nextInt();
             if(computerInput==userInput)
             {
-                System.out.println("Congratulations!!!!!!!You guessed it correctly at "+i+"try");
+                int t=i=1;
+                System.out.println("Congratulations!!!!!!!You guessed it correctly at "+t+"try");
                 break;
             }
             else if (userInput>computerInput)
