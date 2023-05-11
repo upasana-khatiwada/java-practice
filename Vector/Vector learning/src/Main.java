@@ -9,6 +9,8 @@ public class Main {
         age2.add(10);
         age2.add(20);
         age2.add(30);
+        age2.add(30);
+        
 
 
 

@@ -1,23 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf4a409a-cf3c-4a1e-98f6-3073d2aca767" name="Changes" comment="" />
+    <list default="true" id="bf4a409a-cf3c-4a1e-98f6-3073d2aca767" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Interface/Event handler/Calculator/out/production/Calculator/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Interface/Event handler/Calculator/out/production/Calculator/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface/Event handler/Calculator/out/production/Calculator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Interface/Event handler/Calculator/out/production/Calculator/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface/Event handler/Calculator/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Interface/Event handler/Calculator/src/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface/Event handler/Calculator/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Interface/Event handler/Calculator/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java IO/object serialization/out/production/object serialization/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java IO/object serialization/out/production/object serialization/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java IO/object serialization/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java IO/object serialization/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Multi thread/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Multi thread/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Swing/Swing2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Swing/Swing2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vector/Vector learning/out/production/Vector learning/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Vector/Vector learning/out/production/Vector learning/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vector/Vector learning/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Vector/Vector learning/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../array/array/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../array/array/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../array/array/out/production/array/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../array/array/out/production/array/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../array/array/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../array/array/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../array/two dimensional array/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../array/two dimensional array/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../array/two dimensional array/out/production/two dimensional array/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../array/two dimensional array/out/production/two dimensional array/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../array/two dimensional array/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../array/two dimensional array/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="2M7pbrzcjegKeqx4GBBjH8NpU2R" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
